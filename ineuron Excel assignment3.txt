@@ -1,0 +1,18 @@
+1.Select a cell next to the numbers you want to sum.
+Click the Autosum button on either the Home or Formulas tab.
+Press the Enter key  to complete the formula.
+
+We will use Autosum if we need to sum a column or row of numbers.
+
+2.Alt+=
+
+3.Open Excel and click on File.
+Go to Options and select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+Click OK.
+
+4. hold Ctrl and select the cells
+
+5. It shows the column Width.
+
+6. New Row will appear above the  selected Row.
