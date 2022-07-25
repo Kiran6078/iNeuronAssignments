@@ -1,0 +1,11 @@
+1.A cell is an intersection of a column and a row.
+
+2.Menu>Review>Protect sheet>password.
+
+3.On the Edit menu, click Sheet > Move or Copy Sheet. On the To book menu, click the workbook that you want to copy the sheet to.
+
+4.Ctrl+N
+
+5.Workbook, titlebar, menu,toolbar, column headings, row headings, name box, formula bar, cells, navigation buttons
+
+6.Relative cell references are used whenever you need to repeat the same calculation across multiple rows or columns.
