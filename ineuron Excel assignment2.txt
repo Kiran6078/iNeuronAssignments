@@ -1,0 +1,17 @@
+1. Dollar sign in Excel indicated the absolute cell reference.
+When a formula contains an absolute reference, no matter which cell the formula occupies the cell reference does not change.
+
+2.Click the formula box or highlight the formula and press the F4 key to switch between an absolute and relative cell reference.
+
+3. Excel follows PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction).
+
+4. *sum function formula=SUM(A1:A5)
+*Vlookup function formula= VLOOKUP(lookup_value,table_arrray,col_index_num,*range_lookup*)
+*Average function
+*Concatenate function
+*Text function.
+
+5.Subtotals are calculated with a summary function, such as Sum or Average, by using the SUBTOTAL function. You can display more than one type of summary function for each column. Grand totals are derived from detail data, not from the values in the subtotals.
+
+6.VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]) 
+
